@@ -1,2 +1,2 @@
 # VideoApp
-Similar youtube, developed using only HTML, CSS & JS
+Similar to youtube, developed using only HTML, CSS & JS
